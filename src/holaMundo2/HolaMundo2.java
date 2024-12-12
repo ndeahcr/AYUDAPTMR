@@ -30,6 +30,8 @@ public class HolaMundo2 {
 
 		System.out.println("ROCHA AYUDAME POR 2, ESTE CAMBIO ES REALIZADO DESDE GITHUB");
 		
+		System.out.println("cambio realizado despues del pull");
+		
 		scanner.close();
 
 	}
