@@ -26,8 +26,7 @@ public class HolaMundo2 {
 		System.out.println("fusion realizada");
 		System.out.println("di");
 		
-		System.out.println(""
-				+ "xsf çei");
+		System.out.println("ROCHA AYUDAME");
 		
 		scanner.close();
 
