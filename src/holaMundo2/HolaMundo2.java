@@ -23,6 +23,8 @@ public class HolaMundo2 {
 		
 		System.out.println("creado en la rama desarrollo");
 		
+		System.out.println("fusion realizada");
+		
 		scanner.close();
 
 	}
